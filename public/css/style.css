@@ -45,3 +45,8 @@ aside{
     float: right;
     margin-top: 0%;
 }
+
+body{
+    background-image: url('/public/img/descarga.jpg');
+    background-size: cover;
+}
